@@ -1,0 +1,41 @@
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Audio\crash-glass-sound-effect-24-11503.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Audio\risk-136788.ogg
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Audio\risk-136788.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Fonts\File.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Fonts\regFont.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\background.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\backgroundPurple.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\ball.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\blue-tile.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\green-tile.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\mini-paddle.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\orange-tile.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\paddle.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\smoke.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\star.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Content\Images\yellow-tile.xnb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Assignment - Skeleton.exe
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Assignment - Skeleton.deps.json
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Assignment - Skeleton.runtimeconfig.json
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Assignment - Skeleton.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\Assignment - Skeleton.pdb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.csproj.AssemblyReference.cache
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.AssemblyInfo.cs
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.csproj.CopyComplete
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\refint\Assignment - Skeleton.dll
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.pdb
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\Assignment - Skeleton.genruntimeconfig.cache
+C:\Users\Isaac\Documents\5410\assn3\Isaac-Airmet-Assn3\Assignment - Skeleton\obj\Debug\net6.0\ref\Assignment - Skeleton.dll

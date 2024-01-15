@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJ3E+H623P0wQ7fyePitFuQRLIWr6rireZXbVflr+1Aqyif8jZKyTsTdsY/kNzIBU2VFlG/I1T4OUpwuTBw/fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isaac\\Documents\\5410\\assn3\\Isaac-Airmet-Assn3\\Assignment - Skeleton\\Assignment - Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isaac\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Isaac\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
