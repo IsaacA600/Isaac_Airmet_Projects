@@ -1,7 +1,15 @@
+# Welcome!
+
 This repo contains a few projects I've worked on in several different languages. The main purpose of this repo is to demonstrate the general scale and complexity of projects that I have worked on outside of the industry.
 
-Isaac-Airmet-Breakout is a breakout style game which I built from the ground up in c#. I run the project through VS.
+## Isaac-Airmet-Breakout
 
-Isaac-Airmet-Terminal is a small terminal replacement program which was constructed in Java. The folder contains instructions on how to run it.
+This project is a breakout style game which I built from the ground up in c#. Using the arrow keys, you move a platform to bounce a ball into containers above you. Breaking containers gives you points based on the color, and the speed of the ball increases as points are obtained. Animations are included when you miss the ball, and you have 3 lives. High scores are also kept and stored locally.
 
-Isaac-Airmet-BigBlueIsYou is based on the game Baba Is You, which is a puzzle solving based game. I worked on this project with one other developer as a team.
+## Isaac-Airmet-BigBlueIsYou
+
+This is a very big project which I worked on with another developer as a team. It is based on the game Baba Is You, where you have to solve puzzles in order to win. The game includes multiple levels, as well as animations. 
+
+## Isaac-Airmet-Terminal
+
+ This is a small terminal replacement program which was constructed in Java. The folder contains instructions on how to run it. The program has a few limitations, but for the most part, it can do whatever your terminal can.
